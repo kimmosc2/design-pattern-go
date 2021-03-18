@@ -1,5 +1,5 @@
-Design Pattern - Go 
+Design Pattern - 
 ==
-
-Learn from [refactoring.guru](https://refactoring.guru)
+Design Pattern - implemented by Go  
+Learn from [refactoring.guru](https://refactoring.guru)  
 
